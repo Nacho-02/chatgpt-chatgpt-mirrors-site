@@ -1,22 +1,22 @@
 <!--
-SEO Title: ChatGPT 镜像网站完全上手指南（2025 持续更新）｜免翻墙直连 GPT-4o/GPT-5 的两大高质量镜像
-Meta Description: 精选两款可直连的 ChatGPT 镜像站（GPT-Mirrors、大可 AI），提供上手教程、选型清单、隐私安全建议与 FAQ，2025 持续更新。
-Primary Keywords: ChatGPT 镜像, ChatGPT 中文版, GPT-4o 国内, GPT-5 国内, 免翻墙 ChatGPT
+SEO Title: GPT 镜像网站完全上手指南（2025 持续更新）｜免翻墙直连 GPT-4o/GPT-5 的两大高质量镜像
+Meta Description: 精选两款可直连的 GPT 镜像站（GPT-Mirrors、大可 AI），提供上手教程、选型清单、隐私安全建议与 FAQ，2025 持续更新。
+Primary Keywords: GPT 镜像, GPT 中文版, GPT-4o 国内, GPT-5 国内, 免翻墙 GPT
 -->
 
-# ChatGPT 镜像网站完全上手指南【2025 年持续更新】
+# GPT 镜像网站完全上手指南【2025 年持续更新】
 
 **最后更新时间：2025-11-15**
 
-> 为国内用户系统整理并评测两款可直连的 ChatGPT 镜像网站，支持 GPT-4o / GPT-5.1（以平台对接为准），**无需翻墙、免海外手机号**。附选型标准、上手教程、隐私与安全建议、常见问题、更新机制。
+> 为国内用户系统整理并评测两款可直连的 GPT 镜像网站，支持 GPT-4o / GPT-5.1（以平台对接为准），**无需翻墙、免海外手机号**。附选型标准、上手教程、隐私与安全建议、常见问题、更新机制。
 
 ---
 
 ## 📌 快速入口（免翻墙直连）
 
-* 🪞 **推荐镜像一： [GPT-Mirrors 镜像系统](http://chatgpt.shuangrenchengxing.com/chat.php)**
+* 🪞 **推荐镜像一： [GPT-Mirrors 镜像系统](http://GPT.shuangrenchengxing.com/chat.php)**
   亮点：对话响应快、支持多模型切换、基础功能开箱即用
-* 🍌 **推荐镜像二： [大可 AI 镜像版](https://banana.dk82.com/chatgpt-chinese-site.html#mirror)**
+* 🍌 **推荐镜像二： [大可 AI 镜像版](https://banana.dk82.com/GPT-chinese-site.html#mirror)**
   亮点：移动端优化、支持账号登录与历史同步、功能拓展友好
 
 > ⚠️ 温馨提示：使用任何镜像站前，请确认为 **HTTPS**（地址栏小锁标识），并避免输入敏感个人信息或公司机密。
@@ -25,8 +25,8 @@ Primary Keywords: ChatGPT 镜像, ChatGPT 中文版, GPT-4o 国内, GPT-5 国内
 
 ## 📋 目录
 
-* [什么是 ChatGPT 镜像网站？](#什么是-chatgpt-镜像网站)
-* [为什么要使用 ChatGPT 镜像站？](#为什么要使用-chatgpt-镜像站)
+* [什么是 GPT 镜像网站？](#什么是-GPT-镜像网站)
+* [为什么要使用 GPT 镜像站？](#为什么要使用-GPT-镜像站)
 * [2025 年优质镜像推荐（精简实测）](#2025-年优质镜像推荐精简实测)
 * [如何选择合适的镜像站（评估清单）](#如何选择合适的镜像站评估清单)
 * [新手 3 步上手教程](#新手-3-步上手教程)
@@ -38,16 +38,16 @@ Primary Keywords: ChatGPT 镜像, ChatGPT 中文版, GPT-4o 国内, GPT-5 国内
 
 ---
 
-## 什么是 ChatGPT 镜像网站？
+## 什么是 GPT 镜像网站？
 
-**ChatGPT 镜像站**是通过 API/代理等技术手段，将 OpenAI 的对话能力封装为国内可访问的网页服务，为用户提供无需翻墙的 GPT 模型访问通道。
+**GPT 镜像站**是通过 API/代理等技术手段，将 OpenAI 的对话能力封装为国内可访问的网页服务，为用户提供无需翻墙的 GPT 模型访问通道。
 \*\*核心特性：\*\*无墙访问｜快速响应｜中文优化｜功能集成（联网搜索/文件分析/图片生成等）｜灵活付费（通常支持本地支付）。
 
 \*\*工作原理（通俗版）：\*\*用户请求 → 镜像站服务器（转发/处理） → OpenAI 接口 → 返回结果到用户。对用户基本透明，体验接近官网（以各站实际实现为准）。
 
 ---
 
-## 为什么要使用 ChatGPT 镜像站？
+## 为什么要使用 GPT 镜像站？
 
 * 🚀 **访问便捷**：无需科学上网，国内网络即可直连
 * ⚡ **速度与稳定**：就近节点/加速优化，交互更流畅
@@ -63,8 +63,8 @@ Primary Keywords: ChatGPT 镜像, ChatGPT 中文版, GPT-4o 国内, GPT-5 国内
 
 | 镜像站                                                                   | 支持模型\*                  | 免费体验    | 注册方式               | 适配     | 特色与备注               |
 | --------------------------------------------------------------------- | ----------------------- | ------- | ------------------ | ------ | ------------------- |
-| [GPT-Mirrors 镜像系统](http://chatgpt.shuangrenchengxing.com/chat.php)    | GPT-4/4o、GPT-5（以实际对接为准） | 常见有基本额度 | 邮箱/免注册二选一（以站点为准）   | PC/移动端 | 响应速度快、上手零门槛、界面简洁    |
-| [大可 AI 镜像版](https://banana.dk82.com/chatgpt-chinese-site.html#mirror) | GPT 系列（以实际对接为准）         | 新用户体验额度 | 邮箱/手机号/三方登录（以站点为准） | PC/移动端 | 多设备同步、对话管理友好、扩展功能充足 |
+| [GPT-Mirrors 镜像系统](http://GPT.shuangrenchengxing.com/chat.php)    | GPT-4/4o、GPT-5（以实际对接为准） | 常见有基本额度 | 邮箱/免注册二选一（以站点为准）   | PC/移动端 | 响应速度快、上手零门槛、界面简洁    |
+| [大可 AI 镜像版](https://banana.dk82.com/GPT-chinese-site.html#mirror) | GPT 系列（以实际对接为准）         | 新用户体验额度 | 邮箱/手机号/三方登录（以站点为准） | PC/移动端 | 多设备同步、对话管理友好、扩展功能充足 |
 
 \* **模型声明**：镜像站通常通过官方 API 对接具体模型，标注“GPT-4o / GPT-5”以平台对接公告为准，不同站点可能存在差异与调整。
 
@@ -89,7 +89,7 @@ Primary Keywords: ChatGPT 镜像, ChatGPT 中文版, GPT-4o 国内, GPT-5 国内
 
 **步骤 1：选择并访问镜像站**
 
-* 打开：[GPT-Mirrors](http://chatgpt.shuangrenchengxing.com/chat.php) / [大可 AI](https://banana.dk82.com/chatgpt-chinese-site.html#mirror)
+* 打开：[GPT-Mirrors](http://GPT.shuangrenchengxing.com/chat.php) / [大可 AI](https://banana.dk82.com/GPT-chinese-site.html#mirror)
 
 **步骤 2：注册或直接体验**
 
@@ -108,7 +108,7 @@ Primary Keywords: ChatGPT 镜像, ChatGPT 中文版, GPT-4o 国内, GPT-5 国内
 
 ## 官网 vs 镜像站：全面对比
 
-| 维度 | ChatGPT 官网        | 镜像网站               |
+| 维度 | GPT 官网        | 镜像网站               |
 | -- | ----------------- | ------------------ |
 | 访问 | 需科学上网，偶有波动        | 国内直连，速度快           |
 | 注册 | 需海外手机号            | 邮箱/手机号/免注册         |

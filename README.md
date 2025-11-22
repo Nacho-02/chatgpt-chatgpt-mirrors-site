@@ -10,7 +10,7 @@
 
 * 🪞 **推荐镜像一： [ChatGPT-Mirrors 镜像系统](http://ChatGPT.shuangrenchengxing.com/chat.php)**
   亮点：对话响应快、支持多模型切换、基础功能开箱即用
-* 🍌 **推荐镜像二： [大可 AI 镜像版](https://banana.dk82.com/ChatGPT-chinese-site.html#mirror)**
+* 🍌 **推荐镜像二： [大可 AI 镜像版](https://banana.dk82.com/chatgpt-chinese-site.html#mirror)**
   亮点：移动端优化、支持账号登录与历史同步、功能拓展友好
 
 > ⚠️ 温馨提示：使用任何镜像站前，请确认为 **HTTPS**（地址栏小锁标识），并避免输入敏感个人信息或公司机密。
@@ -58,7 +58,7 @@
 | 镜像站                                                                   | 支持模型\*                  | 免费体验    | 注册方式               | 适配     | 特色与备注               |
 | --------------------------------------------------------------------- | ----------------------- | ------- | ------------------ | ------ | ------------------- |
 | [ChatGPT-Mirrors 镜像系统](http://ChatGPT.shuangrenchengxing.com/chat.php)    | ChatGPT-4/4o、ChatGPT-5（以实际对接为准） | 常见有基本额度 | 邮箱/免注册二选一（以站点为准）   | PC/移动端 | 响应速度快、上手零门槛、界面简洁    |
-| [大可 AI 镜像版](https://banana.dk82.com/ChatGPT-chinese-site.html#mirror) | ChatGPT 系列（以实际对接为准）         | 新用户体验额度 | 邮箱/手机号/三方登录（以站点为准） | PC/移动端 | 多设备同步、对话管理友好、扩展功能充足 |
+| [大可 AI 镜像版](https://banana.dk82.com/chatgpt-chinese-site.html#mirror) | ChatGPT 系列（以实际对接为准）         | 新用户体验额度 | 邮箱/手机号/三方登录（以站点为准） | PC/移动端 | 多设备同步、对话管理友好、扩展功能充足 |
 
 \* **模型声明**：镜像站通常通过官方 API 对接具体模型，标注“ChatGPT-4o / ChatGPT-5”以平台对接公告为准，不同站点可能存在差异与调整。
 
@@ -83,7 +83,7 @@
 
 **步骤 1：选择并访问镜像站**
 
-* 打开：[ChatGPT-Mirrors](http://ChatGPT.shuangrenchengxing.com/chat.php) / [大可 AI](https://banana.dk82.com/ChatGPT-chinese-site.html#mirror)
+* 打开：[ChatGPT-Mirrors](http://ChatGPT.shuangrenchengxing.com/chat.php) / [大可 AI](https://banana.dk82.com/chatgpt-chinese-site.html#mirror)
 
 **步骤 2：注册或直接体验**
 
